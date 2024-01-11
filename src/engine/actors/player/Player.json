@@ -1,0 +1,82 @@
+{
+    "parts": [
+        {
+            "name": "body",
+            "anims": [
+                {
+                    "name": "front_idle",
+                    "frames": [
+                        "body/front_idle1.png",
+                        "body/front_idle2.png",
+                        "body/front_idle3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "arms",
+            "anims": [
+                {
+                    "name": "front_idle",
+                    "frames": [
+                        "arms/front_idle1.png",
+                        "arms/front_idle2.png",
+                        "arms/front_idle3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "legs",
+            "anims": [
+                {
+                    "name": "front_idle",
+                    "frames": [
+                        "legs/front_idle1.png",
+                        "legs/front_idle2.png",
+                        "legs/front_idle3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "face",
+            "anims": [
+                {
+                    "name": "front_idle",
+                    "frames": [
+                        "face/front_idle1.png",
+                        "face/front_idle2.png",
+                        "face/front_idle3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "eyes",
+            "anims": [
+                {
+                    "name": "front_idle",
+                    "frames": [
+                        "eyes/front_idle1.png",
+                        "eyes/front_idle2.png",
+                        "eyes/front_idle3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lashes",
+            "anims": [
+                {
+                    "name": "front_idle",
+                    "frames": [
+                        "lashes/front_idle1.png",
+                        "lashes/front_idle2.png",
+                        "lashes/front_idle3.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}
